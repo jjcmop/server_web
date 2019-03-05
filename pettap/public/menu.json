@@ -1,0 +1,59 @@
+[
+  {
+    "pid": 0,
+    "title": "主页",
+    "icon":"home",
+    "data":[
+      {"id":1,"url":"/user/administrators","title":"后台管理员"},
+      {"id":2,"url":"/admin/banner","title":"首页Banner"},
+      {"id":3,"url":"/admin/newslist","title":"APP首页文章"},
+      {"id":3,"url":"/admin/addcomment","title":"添加文章评论"}
+    ]
+  },
+  {
+    "pid": 1,
+    "title": "用户管理",
+    "icon":"user",
+    "data":[
+      {"id":1,"url":"/user/userlist","title":"APP用户"},
+      {"id":2,"url":"/user/userblack","title":"用户锁定"},
+      {"id":3,"url":"/user/userbp","title":"积分记录"}
+    ]
+  },
+  {
+    "pid": 1,
+    "title": "帖子管理",
+    "icon":"form",
+    "data":[
+      {"id":1,"url":"/card/classify","title":"帖子分类"},
+      {"id":2,"url":"/card/index","title":"帖子列表"}
+    ]
+  },
+  {
+    "pid": 1,
+    "title": "救助站管理",
+    "icon":"util",
+    "data":[
+      {"id":1,"url":"/user/verify","title":"救助站列表"},
+      {"id":2,"url":"/user/verifystatus","title":"已审核通过"}
+    ]
+  },
+  {
+    "pid": 1,
+    "title": "公益管理",
+    "icon":"rmb",
+    "data":[
+      {"id":1,"url":"/commonweal/monweallist","title":"公益列表"},
+      {"id":2,"url":"/commonweal/stateorder","title":"流水账单"}
+    ]
+  },
+  {
+    "pid": 1,
+    "title": "系统设置",
+    "icon":"set",
+    "data":[
+      {"id":1,"url":"/set/index","title":"词语过滤"},
+      {"id":2,"url":"/set/appupload","title":"APP更新"}
+    ]
+  }
+]
